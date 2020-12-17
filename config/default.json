@@ -1,0 +1,6 @@
+{
+  "db": "mongodb://localhost/productscrud",
+  "jwtPrivateKey": "SomePrivateKey"
+
+
+}
